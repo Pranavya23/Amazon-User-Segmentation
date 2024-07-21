@@ -12,13 +12,13 @@ The dataset consists of the following columns:
 # Insights Gained from Tableau Visualization
 1. Approximately 85% of customers visit the website fewer than three times a day, indicating a relatively low frequency of daily visits for the majority of users.
 
-2. Customers in category 0 visit the website more frequently and have higher scores for successful orders compared to customers in category 1. This suggests that category 0 customers are more active and engaged with the platform.
+2. Customers in category - 0 visit the website more frequently and have higher scores for successful orders compared to customers in category - 1. This suggests that category - 0 customers are more active and engaged with the platform.
 
 3. Customers in active segments A and AA visit the website more often and have higher successful order scores compared to customers in other active segments. This indicates that segments A and AA are more profitable and engaged.
 
-4. Category 0 customers have higher product search scores but lower product variation scores compared to category 1 customers. This suggests that category 0 customers are more particular about the products they purchase, often opting for high-value items such as electronics and appliances.
+4. Category - 0 customers have higher product search scores but lower product variation scores compared to category - 1 customers. This suggests that category - 0 customers are more particular about the products they purchase, often opting for high-value items such as electronics and appliances.
 
-5. Customers in category 1 tend to browse and stay on the website longer than those in category 0. This indicates that category 1 customers are more likely to engage in extensive browsing and exploration of the website's offerings.
+5. Customers in category - 1 tend to browse and stay on the website longer than those in category - 0. This indicates that category - 1 customers are more likely to engage in extensive browsing and exploration of the website's offerings.
    
 # Machine Learning Models Implemented
 Five different machine learning models were implemented to predict the customer category: Decision Tree, K-Nearest Neighbors (KNN), Naive Bayes, Logistic Regression, and Support Vector Machine (SVM). Each model was evaluated based on accuracy, precision, recall, and F1 score to determine their performance.
